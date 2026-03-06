@@ -69,7 +69,7 @@ const brands = [
   { name: 'Acqua Panna', logo: '/brands/acquapanna.jpg' },
   { name: 'Balducci', logo: '/brands/balducci.jpg' },
   { name: 'Beerenberg', logo: '/brands/beerenberg.jpg' },
-  { name: 'Bega', logo: '/brands/Bega.png' },
+  { name: 'Bega', logo: '/brands/bega.png' },
   { name: 'BenJerry', logo: '/brands/benjerry.jpg' },
   { name: 'Bulla', logo: '/brands/bulla.jpg' },
   { name: 'Chachos', logo: '/brands/chachos.jpg' },
